@@ -4,7 +4,7 @@
     1. Only Work On LInux Based OS not Windows
     
 # Installation:
-    1. git clone 
+    1. git clone https://github.com/xdrushxd/PDF_Cracker.git
     2. cd pdfcrack 
     3. python3 -m pip install -r requirements.txt
     4. python3 pdfcrack.py 
